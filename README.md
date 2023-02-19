@@ -31,6 +31,7 @@ The table below shows the accuracies of each sampling technique on five differen
 | Convenience Sampling | 0.9849 | 0.9190 | 0.9322 | 0.9623 | 0.7740 |
 
 Best: Cluster Sampling
+
 Worst: Simple Random Sampling
 
 ## Conclusion
