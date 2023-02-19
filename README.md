@@ -22,7 +22,7 @@ The following five sampling techniques were used in this project:
 
 The table below shows the accuracies of each sampling technique on five different machine learning models. The dataset used for all models is a balanced version of the original unbalanced dataset using random over-sampling and under-sampling techniques.
 
-| Sampling Technique | Decision Tree | SVM | Logistic Resgression | KNN | Naive Bayes |
+| Sampling Technique | Decision Tree | SVM | Logistic Regression | KNN | Naive Bayes |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Simple Random Sampling | 0.9778 | 0.8954 | 0.8917 | 0.8915 | 0.7275 |
 | Systematic Sampling | 0.9813 | 0.8989 | 0.9213 | 0.9493 | 0.6854 |
